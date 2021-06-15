@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com">
+  <a href="https://www.contentful.com">
     <img alt="Contentful" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/contentful.svg" width="60" />
   </a>
 </p>
